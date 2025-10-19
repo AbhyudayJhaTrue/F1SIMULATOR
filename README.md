@@ -28,7 +28,7 @@ A text-based Formula 1 simulator written in Python, designed for people who love
 Clone this repository and run the simulator:
 
 ```bash
-git clone https://github.com/yourusername/f1-simulator.git
+git clone https://github.com/AbhyudayJhaTrue/F1SIMULATOR
 cd f1-simulator
 python main.py
 ```
