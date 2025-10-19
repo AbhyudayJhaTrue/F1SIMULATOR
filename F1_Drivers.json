@@ -1,0 +1,902 @@
+{
+    "Luca Alboreto": {
+        "skill": 1.2,
+        "aggression": 4.0,
+        "consistency": 7.3,
+        "fuel_usage": 4.96
+    },
+    "Oliver Sutil": {
+        "skill": 8.1,
+        "aggression": 2.4,
+        "consistency": 2.9,
+        "fuel_usage": 3.72
+    },
+    "Joshua Newgarden": {
+        "skill": 8.4,
+        "aggression": 2.1,
+        "consistency": 4.0,
+        "fuel_usage": 2.2
+    },
+    "Christopher Senna": {
+        "skill": 7.2,
+        "aggression": 4.8,
+        "consistency": 9.7,
+        "fuel_usage": 3.46
+    },
+    "Logan Glock": {
+        "skill": 8.5,
+        "aggression": 7.5,
+        "consistency": 6.5,
+        "fuel_usage": 3.13
+    },
+    "Gabriel Nasr": {
+        "skill": 8.1,
+        "aggression": 5.0,
+        "consistency": 7.6,
+        "fuel_usage": 4.85
+    },
+    "Ian Frentzen": {
+        "skill": 4.7,
+        "aggression": 1.3,
+        "consistency": 9.4,
+        "fuel_usage": 4.76
+    },
+    "Nathan Depailler": {
+        "skill": 1.0,
+        "aggression": 2.0,
+        "consistency": 4.6,
+        "fuel_usage": 2.28
+    },
+    "Landon Stewart": {
+        "skill": 6.6,
+        "aggression": 2.7,
+        "consistency": 2.3,
+        "fuel_usage": 2.07
+    },
+    "Joseph Tsunoda": {
+        "skill": 10.0,
+        "aggression": 4.7,
+        "consistency": 6.7,
+        "fuel_usage": 2.39
+    },
+    "Jace Bianchi": {
+        "skill": 6.5,
+        "aggression": 4.0,
+        "consistency": 8.4,
+        "fuel_usage": 4.55
+    },
+    "Liam Martins": {
+        "skill": 6.9,
+        "aggression": 8.0,
+        "consistency": 7.9,
+        "fuel_usage": 4.21
+    },
+    "Isaiah Tictum": {
+        "skill": 1.3,
+        "aggression": 8.3,
+        "consistency": 3.4,
+        "fuel_usage": 4.15
+    },
+    "Jordan Aitken": {
+        "skill": 9.8,
+        "aggression": 8.9,
+        "consistency": 1.4,
+        "fuel_usage": 2.26
+    },
+    "Jayden Lawson": {
+        "skill": 7.8,
+        "aggression": 3.1,
+        "consistency": 6.0,
+        "fuel_usage": 2.26
+    },
+    "Jordan Stewart": {
+        "skill": 5.2,
+        "aggression": 2.5,
+        "consistency": 1.3,
+        "fuel_usage": 2.13
+    },
+    "Gabriel Ericsson": {
+        "skill": 7.5,
+        "aggression": 6.3,
+        "consistency": 7.2,
+        "fuel_usage": 2.2
+    },
+    "Everett Piastri": {
+        "skill": 9.1,
+        "aggression": 4.0,
+        "consistency": 8.3,
+        "fuel_usage": 4.01
+    },
+    "Mateo Clark": {
+        "skill": 3.8,
+        "aggression": 5.1,
+        "consistency": 9.4,
+        "fuel_usage": 2.72
+    },
+    "Josiah Ricciardo": {
+        "skill": 9.6,
+        "aggression": 5.7,
+        "consistency": 1.7,
+        "fuel_usage": 3.57
+    },
+    "Austin Lawson": {
+        "skill": 1.0,
+        "aggression": 4.5,
+        "consistency": 8.2,
+        "fuel_usage": 2.18
+    },
+    "Silas Cheever": {
+        "skill": 8.9,
+        "aggression": 4.2,
+        "consistency": 6.8,
+        "fuel_usage": 4.71
+    },
+    "Joseph Lundgaard": {
+        "skill": 7.4,
+        "aggression": 3.6,
+        "consistency": 6.9,
+        "fuel_usage": 3.93
+    },
+    "Robert Herta": {
+        "skill": 7.1,
+        "aggression": 8.6,
+        "consistency": 9.9,
+        "fuel_usage": 3.34
+    },
+    "David Bianchi": {
+        "skill": 4.3,
+        "aggression": 1.2,
+        "consistency": 4.7,
+        "fuel_usage": 2.83
+    },
+    "Parker Stewart": {
+        "skill": 4.6,
+        "aggression": 1.5,
+        "consistency": 9.9,
+        "fuel_usage": 3.52
+    },
+    "Owen Piastri": {
+        "skill": 5.2,
+        "aggression": 4.8,
+        "consistency": 8.6,
+        "fuel_usage": 3.39
+    },
+    "Cooper Piastri": {
+        "skill": 6.8,
+        "aggression": 7.1,
+        "consistency": 5.4,
+        "fuel_usage": 3.0
+    },
+    "Nicholas Jones": {
+        "skill": 7.3,
+        "aggression": 4.1,
+        "consistency": 9.1,
+        "fuel_usage": 2.33
+    },
+    "Kai Ascari": {
+        "skill": 6.5,
+        "aggression": 1.2,
+        "consistency": 6.9,
+        "fuel_usage": 3.51
+    },
+    "Jayden Palmer": {
+        "skill": 7.5,
+        "aggression": 9.7,
+        "consistency": 7.3,
+        "fuel_usage": 3.68
+    },
+    "Axel Capelli": {
+        "skill": 3.7,
+        "aggression": 7.6,
+        "consistency": 7.4,
+        "fuel_usage": 3.76
+    },
+    "Theodore Nasr": {
+        "skill": 7.2,
+        "aggression": 2.7,
+        "consistency": 5.8,
+        "fuel_usage": 2.05
+    },
+    "Leonardo Kubica": {
+        "skill": 4.8,
+        "aggression": 7.8,
+        "consistency": 2.0,
+        "fuel_usage": 4.54
+    },
+    "Wyatt Arnoux": {
+        "skill": 9.3,
+        "aggression": 9.5,
+        "consistency": 4.9,
+        "fuel_usage": 2.28
+    },
+    "Aaron Frentzen": {
+        "skill": 9.2,
+        "aggression": 5.9,
+        "consistency": 7.0,
+        "fuel_usage": 3.43
+    },
+    "Daniel Rosberg": {
+        "skill": 7.2,
+        "aggression": 1.7,
+        "consistency": 3.1,
+        "fuel_usage": 2.05
+    },
+    "Everett Andretti": {
+        "skill": 3.6,
+        "aggression": 2.4,
+        "consistency": 5.6,
+        "fuel_usage": 2.49
+    },
+    "Eli Watson": {
+        "skill": 3.9,
+        "aggression": 7.6,
+        "consistency": 1.0,
+        "fuel_usage": 3.53
+    },
+    "Caleb Larini": {
+        "skill": 2.1,
+        "aggression": 2.1,
+        "consistency": 8.9,
+        "fuel_usage": 3.26
+    },
+    "Joshua Hill": {
+        "skill": 9.7,
+        "aggression": 9.3,
+        "consistency": 3.9,
+        "fuel_usage": 4.1
+    },
+    "Kayden Ericsson": {
+        "skill": 7.6,
+        "aggression": 7.0,
+        "consistency": 4.1,
+        "fuel_usage": 2.64
+    },
+    "Parker Depailler": {
+        "skill": 7.0,
+        "aggression": 2.3,
+        "consistency": 3.9,
+        "fuel_usage": 2.61
+    },
+    "Liam Frentzen": {
+        "skill": 2.0,
+        "aggression": 1.4,
+        "consistency": 5.4,
+        "fuel_usage": 3.84
+    },
+    "Ezra Gasly": {
+        "skill": 5.1,
+        "aggression": 5.8,
+        "consistency": 8.8,
+        "fuel_usage": 2.65
+    },
+    "Dylan Prost": {
+        "skill": 5.4,
+        "aggression": 10.0,
+        "consistency": 6.0,
+        "fuel_usage": 4.27
+    },
+    "Joshua Leclerc": {
+        "skill": 3.7,
+        "aggression": 2.4,
+        "consistency": 7.7,
+        "fuel_usage": 4.63
+    },
+    "Nathan Amon": {
+        "skill": 1.2,
+        "aggression": 5.1,
+        "consistency": 8.5,
+        "fuel_usage": 3.75
+    },
+    "Caleb De Cesaris": {
+        "skill": 9.4,
+        "aggression": 1.8,
+        "consistency": 9.9,
+        "fuel_usage": 4.44
+    },
+    "Cooper Clark": {
+        "skill": 6.4,
+        "aggression": 3.6,
+        "consistency": 4.1,
+        "fuel_usage": 2.82
+    },
+    "Nicholas Hill": {
+        "skill": 8.2,
+        "aggression": 6.7,
+        "consistency": 6.1,
+        "fuel_usage": 4.84
+    },
+    "Hudson Leclerc": {
+        "skill": 9.7,
+        "aggression": 7.9,
+        "consistency": 9.7,
+        "fuel_usage": 4.42
+    },
+    "Joseph Drugovich": {
+        "skill": 4.7,
+        "aggression": 6.2,
+        "consistency": 2.7,
+        "fuel_usage": 3.25
+    },
+    "Luke Sainz": {
+        "skill": 6.8,
+        "aggression": 9.3,
+        "consistency": 7.8,
+        "fuel_usage": 2.04
+    },
+    "Cooper Zhou": {
+        "skill": 5.7,
+        "aggression": 1.3,
+        "consistency": 1.3,
+        "fuel_usage": 2.51
+    },
+    "Aaron Raikkonen": {
+        "skill": 6.4,
+        "aggression": 8.9,
+        "consistency": 6.8,
+        "fuel_usage": 3.89
+    },
+    "Lincoln Norris": {
+        "skill": 5.7,
+        "aggression": 8.0,
+        "consistency": 6.6,
+        "fuel_usage": 2.35
+    },
+    "Jace Daruvula": {
+        "skill": 3.9,
+        "aggression": 3.3,
+        "consistency": 5.9,
+        "fuel_usage": 4.77
+    },
+    "Jayden Tsunoda": {
+        "skill": 2.9,
+        "aggression": 4.6,
+        "consistency": 3.2,
+        "fuel_usage": 3.72
+    },
+    "Dylan Gasly": {
+        "skill": 6.3,
+        "aggression": 9.5,
+        "consistency": 4.0,
+        "fuel_usage": 4.14
+    },
+    "Miles Stroll": {
+        "skill": 4.7,
+        "aggression": 10.0,
+        "consistency": 2.4,
+        "fuel_usage": 2.28
+    },
+    "Daniel Hadjar": {
+        "skill": 3.2,
+        "aggression": 2.6,
+        "consistency": 9.3,
+        "fuel_usage": 2.24
+    },
+    "Ian Depailler": {
+        "skill": 4.7,
+        "aggression": 6.8,
+        "consistency": 4.5,
+        "fuel_usage": 3.11
+    },
+    "Jacob Clark": {
+        "skill": 3.5,
+        "aggression": 9.0,
+        "consistency": 1.7,
+        "fuel_usage": 2.46
+    },
+    "Roman Ricciardo": {
+        "skill": 5.1,
+        "aggression": 2.5,
+        "consistency": 4.8,
+        "fuel_usage": 2.81
+    },
+    "Joshua Drugovich": {
+        "skill": 9.4,
+        "aggression": 3.3,
+        "consistency": 2.2,
+        "fuel_usage": 2.27
+    },
+    "Dylan Coulthard": {
+        "skill": 8.6,
+        "aggression": 1.7,
+        "consistency": 1.7,
+        "fuel_usage": 3.73
+    },
+    "Benjamin Doohan": {
+        "skill": 5.6,
+        "aggression": 4.7,
+        "consistency": 2.1,
+        "fuel_usage": 3.71
+    },
+    "Austin Ricciardo": {
+        "skill": 2.5,
+        "aggression": 2.0,
+        "consistency": 5.1,
+        "fuel_usage": 2.37
+    },
+    "Logan De Cesaris": {
+        "skill": 3.3,
+        "aggression": 7.4,
+        "consistency": 6.5,
+        "fuel_usage": 3.14
+    },
+    "Jameson Crawford": {
+        "skill": 8.1,
+        "aggression": 9.1,
+        "consistency": 5.7,
+        "fuel_usage": 3.24
+    },
+    "Connor Tambay": {
+        "skill": 1.6,
+        "aggression": 3.5,
+        "consistency": 9.8,
+        "fuel_usage": 2.34
+    },
+    "Kayden Palmer": {
+        "skill": 1.1,
+        "aggression": 6.4,
+        "consistency": 2.2,
+        "fuel_usage": 4.01
+    },
+    "Sebastian Herta": {
+        "skill": 3.5,
+        "aggression": 8.2,
+        "consistency": 1.2,
+        "fuel_usage": 4.11
+    },
+    "Angel Leclerc": {
+        "skill": 4.7,
+        "aggression": 1.6,
+        "consistency": 3.9,
+        "fuel_usage": 3.23
+    },
+    "Ethan Kanaan": {
+        "skill": 7.6,
+        "aggression": 4.8,
+        "consistency": 3.7,
+        "fuel_usage": 4.24
+    },
+    "Elijah Fisichella": {
+        "skill": 3.4,
+        "aggression": 6.1,
+        "consistency": 3.4,
+        "fuel_usage": 2.4
+    },
+    "Jonathan Prost": {
+        "skill": 7.8,
+        "aggression": 4.5,
+        "consistency": 3.1,
+        "fuel_usage": 2.46
+    },
+    "Christopher Drugovich": {
+        "skill": 1.4,
+        "aggression": 4.8,
+        "consistency": 8.3,
+        "fuel_usage": 4.5
+    },
+    "Cooper Pourchaire": {
+        "skill": 6.7,
+        "aggression": 3.3,
+        "consistency": 4.1,
+        "fuel_usage": 3.33
+    },
+    "Christian Berger": {
+        "skill": 5.9,
+        "aggression": 8.4,
+        "consistency": 8.5,
+        "fuel_usage": 3.13
+    },
+    "Angel Fisichella": {
+        "skill": 9.0,
+        "aggression": 6.0,
+        "consistency": 3.9,
+        "fuel_usage": 2.53
+    },
+    "Jaxon Sainz": {
+        "skill": 9.3,
+        "aggression": 2.9,
+        "consistency": 8.6,
+        "fuel_usage": 4.5
+    },
+    "Matthew Dixon": {
+        "skill": 8.4,
+        "aggression": 8.0,
+        "consistency": 5.3,
+        "fuel_usage": 3.31
+    },
+    "Julian Amon": {
+        "skill": 10.0,
+        "aggression": 6.0,
+        "consistency": 4.5,
+        "fuel_usage": 4.42
+    },
+    "Christian Rossi": {
+        "skill": 8.4,
+        "aggression": 9.1,
+        "consistency": 7.2,
+        "fuel_usage": 2.24
+    },
+    "Luca Sato": {
+        "skill": 8.4,
+        "aggression": 8.3,
+        "consistency": 9.0,
+        "fuel_usage": 2.46
+    },
+    "Connor Albon": {
+        "skill": 3.4,
+        "aggression": 4.2,
+        "consistency": 8.4,
+        "fuel_usage": 2.24
+    },
+    "Connor Panis": {
+        "skill": 9.7,
+        "aggression": 1.1,
+        "consistency": 9.4,
+        "fuel_usage": 2.58
+    },
+    "Easton Bearman": {
+        "skill": 9.5,
+        "aggression": 1.7,
+        "consistency": 2.3,
+        "fuel_usage": 4.63
+    },
+    "Josiah Correa": {
+        "skill": 4.4,
+        "aggression": 2.3,
+        "consistency": 8.0,
+        "fuel_usage": 2.96
+    },
+    "Santiago Tictum": {
+        "skill": 9.0,
+        "aggression": 6.1,
+        "consistency": 6.7,
+        "fuel_usage": 3.48
+    },
+    "Jose Zhou": {
+        "skill": 4.0,
+        "aggression": 4.8,
+        "consistency": 3.6,
+        "fuel_usage": 2.17
+    },
+    "Elias Ascari": {
+        "skill": 9.8,
+        "aggression": 6.3,
+        "consistency": 6.9,
+        "fuel_usage": 4.06
+    },
+    "Adam Vesti": {
+        "skill": 8.5,
+        "aggression": 3.7,
+        "consistency": 3.0,
+        "fuel_usage": 2.5
+    },
+    "Asher Colapinto": {
+        "skill": 4.1,
+        "aggression": 2.5,
+        "consistency": 2.1,
+        "fuel_usage": 2.9
+    },
+    "Ezra Maini": {
+        "skill": 9.9,
+        "aggression": 1.0,
+        "consistency": 8.8,
+        "fuel_usage": 2.46
+    },
+    "Hunter Tambay": {
+        "skill": 2.7,
+        "aggression": 6.1,
+        "consistency": 4.2,
+        "fuel_usage": 4.61
+    },
+    "Everett Albon": {
+        "skill": 2.5,
+        "aggression": 9.9,
+        "consistency": 9.9,
+        "fuel_usage": 3.13
+    },
+    "Jacob Chilton": {
+        "skill": 5.5,
+        "aggression": 8.9,
+        "consistency": 5.8,
+        "fuel_usage": 2.59
+    },
+    "Charles Prost": {
+        "skill": 4.7,
+        "aggression": 2.0,
+        "consistency": 8.3,
+        "fuel_usage": 4.36
+    },
+    "Ian Albon": {
+        "skill": 6.5,
+        "aggression": 1.5,
+        "consistency": 4.0,
+        "fuel_usage": 3.15
+    },
+    "Parker Perez": {
+        "skill": 3.7,
+        "aggression": 8.7,
+        "consistency": 4.4,
+        "fuel_usage": 2.29
+    },
+    "John Correa": {
+        "skill": 5.7,
+        "aggression": 2.4,
+        "consistency": 4.8,
+        "fuel_usage": 2.15
+    },
+    "Lucas Bianchi": {
+        "skill": 7.7,
+        "aggression": 6.3,
+        "consistency": 6.2,
+        "fuel_usage": 3.19
+    },
+    "Kayden Hamilton": {
+        "skill": 8.3,
+        "aggression": 9.4,
+        "consistency": 6.5,
+        "fuel_usage": 3.42
+    },
+    "Silas Villeneuve": {
+        "skill": 5.4,
+        "aggression": 9.0,
+        "consistency": 8.1,
+        "fuel_usage": 3.38
+    },
+    "Connor Tsunoda": {
+        "skill": 2.8,
+        "aggression": 8.2,
+        "consistency": 4.6,
+        "fuel_usage": 2.77
+    },
+    "Henry Surtees": {
+        "skill": 3.3,
+        "aggression": 9.6,
+        "consistency": 2.8,
+        "fuel_usage": 5.0
+    },
+    "Jayden Verstappen": {
+        "skill": 3.3,
+        "aggression": 3.8,
+        "consistency": 2.1,
+        "fuel_usage": 4.58
+    },
+    "Luke Norris": {
+        "skill": 3.2,
+        "aggression": 3.2,
+        "consistency": 7.9,
+        "fuel_usage": 3.5
+    },
+    "Liam Senna": {
+        "skill": 1.7,
+        "aggression": 2.8,
+        "consistency": 5.9,
+        "fuel_usage": 3.24
+    },
+    "Ezekiel Norris": {
+        "skill": 9.8,
+        "aggression": 6.1,
+        "consistency": 7.8,
+        "fuel_usage": 2.08
+    },
+    "Santiago Ericsson": {
+        "skill": 2.8,
+        "aggression": 1.2,
+        "consistency": 2.9,
+        "fuel_usage": 3.01
+    },
+    "Ezekiel Hulkenberg": {
+        "skill": 1.6,
+        "aggression": 6.1,
+        "consistency": 8.6,
+        "fuel_usage": 4.85
+    },
+    "Asher Rosberg": {
+        "skill": 2.1,
+        "aggression": 1.1,
+        "consistency": 2.2,
+        "fuel_usage": 3.38
+    },
+    "Jaxon Stewart": {
+        "skill": 9.8,
+        "aggression": 2.8,
+        "consistency": 9.1,
+        "fuel_usage": 3.12
+    },
+    "Everett Iwasa": {
+        "skill": 4.9,
+        "aggression": 8.9,
+        "consistency": 3.9,
+        "fuel_usage": 4.88
+    },
+    "John Palmer": {
+        "skill": 4.0,
+        "aggression": 10.0,
+        "consistency": 7.0,
+        "fuel_usage": 4.07
+    },
+    "Ryan Tambay": {
+        "skill": 2.8,
+        "aggression": 3.5,
+        "consistency": 5.4,
+        "fuel_usage": 4.03
+    },
+    "Cameron Colapinto": {
+        "skill": 9.5,
+        "aggression": 6.5,
+        "consistency": 7.2,
+        "fuel_usage": 2.95
+    },
+    "Jeremiah Tictum": {
+        "skill": 7.7,
+        "aggression": 2.1,
+        "consistency": 3.2,
+        "fuel_usage": 3.67
+    },
+    "Brooks Sainz": {
+        "skill": 5.7,
+        "aggression": 5.1,
+        "consistency": 8.6,
+        "fuel_usage": 3.37
+    },
+    "James Ocon": {
+        "skill": 8.5,
+        "aggression": 3.3,
+        "consistency": 3.9,
+        "fuel_usage": 2.77
+    },
+    "Gabriel Villeneuve": {
+        "skill": 3.8,
+        "aggression": 4.0,
+        "consistency": 1.7,
+        "fuel_usage": 2.47
+    },
+    "Cooper Brabham": {
+        "skill": 6.6,
+        "aggression": 3.1,
+        "consistency": 1.8,
+        "fuel_usage": 4.72
+    },
+    "Austin Stanek": {
+        "skill": 5.3,
+        "aggression": 5.1,
+        "consistency": 1.9,
+        "fuel_usage": 2.35
+    },
+    "Hudson Alonso": {
+        "skill": 2.8,
+        "aggression": 4.4,
+        "consistency": 5.5,
+        "fuel_usage": 2.6
+    },
+    "David Drugovich": {
+        "skill": 3.8,
+        "aggression": 1.9,
+        "consistency": 2.7,
+        "fuel_usage": 4.45
+    },
+    "Kayden Pourchaire": {
+        "skill": 9.0,
+        "aggression": 4.6,
+        "consistency": 2.6,
+        "fuel_usage": 2.66
+    },
+    "Robert Barrichello": {
+        "skill": 1.0,
+        "aggression": 7.0,
+        "consistency": 1.9,
+        "fuel_usage": 3.22
+    },
+    "Hunter Fittipaldi": {
+        "skill": 9.3,
+        "aggression": 3.8,
+        "consistency": 7.7,
+        "fuel_usage": 2.31
+    },
+    "Samuel Cevert": {
+        "skill": 4.5,
+        "aggression": 6.0,
+        "consistency": 7.4,
+        "fuel_usage": 4.86
+    },
+    "Parker Rindt": {
+        "skill": 6.2,
+        "aggression": 7.4,
+        "consistency": 1.5,
+        "fuel_usage": 4.9
+    },
+    "Dominic Piastri": {
+        "skill": 3.0,
+        "aggression": 2.6,
+        "consistency": 5.0,
+        "fuel_usage": 3.58
+    },
+    "Landon Zhou": {
+        "skill": 2.6,
+        "aggression": 1.2,
+        "consistency": 2.7,
+        "fuel_usage": 3.53
+    },
+    "Mateo Massa": {
+        "skill": 9.3,
+        "aggression": 5.1,
+        "consistency": 5.3,
+        "fuel_usage": 3.59
+    },
+    "Jace Cheever": {
+        "skill": 8.4,
+        "aggression": 7.7,
+        "consistency": 8.3,
+        "fuel_usage": 2.6
+    },
+    "Nathan Berger": {
+        "skill": 9.0,
+        "aggression": 8.7,
+        "consistency": 9.6,
+        "fuel_usage": 4.23
+    },
+    "Jace Morbidelli": {
+        "skill": 9.0,
+        "aggression": 3.5,
+        "consistency": 4.3,
+        "fuel_usage": 4.15
+    },
+    "Jayden Aitken": {
+        "skill": 4.9,
+        "aggression": 3.9,
+        "consistency": 9.3,
+        "fuel_usage": 3.05
+    },
+    "Hunter Martins": {
+        "skill": 2.2,
+        "aggression": 8.1,
+        "consistency": 1.2,
+        "fuel_usage": 3.05
+    },
+    "Landon Cheever": {
+        "skill": 6.7,
+        "aggression": 7.7,
+        "consistency": 7.7,
+        "fuel_usage": 4.85
+    },
+    "Isaiah Armstrong": {
+        "skill": 4.2,
+        "aggression": 8.1,
+        "consistency": 9.3,
+        "fuel_usage": 2.38
+    },
+    "John Andretti": {
+        "skill": 7.6,
+        "aggression": 4.6,
+        "consistency": 3.2,
+        "fuel_usage": 3.39
+    },
+    "Dylan Hakkinen": {
+        "skill": 4.0,
+        "aggression": 4.1,
+        "consistency": 1.1,
+        "fuel_usage": 4.6
+    },
+    "Elias Martins": {
+        "skill": 8.0,
+        "aggression": 3.3,
+        "consistency": 3.2,
+        "fuel_usage": 2.2
+    },
+    "Aiden Vesti": {
+        "skill": 8.0,
+        "aggression": 1.8,
+        "consistency": 5.6,
+        "fuel_usage": 3.8
+    },
+    "Brooks Barrichello": {
+        "skill": 8.4,
+        "aggression": 8.0,
+        "consistency": 7.1,
+        "fuel_usage": 2.6
+    },
+    "Grayson Clark": {
+        "skill": 3.5,
+        "aggression": 4.6,
+        "consistency": 4.1,
+        "fuel_usage": 3.91
+    }
+}

@@ -1,0 +1,242 @@
+{
+    "Mercedes": {
+        "ability": 9.2,
+        "top_speed": 342,
+        "cornering_ability": 8.8,
+        "straights_ability": 7.0,
+        "sponsor": "Petronas",
+        "pitstops_ability": 1.85
+    },
+    "Red Bull": {
+        "ability": 9.6,
+        "top_speed": 321,
+        "cornering_ability": 2.9,
+        "straights_ability": 2.7,
+        "sponsor": "Red Bull GmbH",
+        "pitstops_ability": 0.52
+    },
+    "Ferrari": {
+        "ability": 7.5,
+        "top_speed": 342,
+        "cornering_ability": 2.3,
+        "straights_ability": 8.5,
+        "sponsor": "Shell",
+        "pitstops_ability": 1.13
+    },
+    "McLaren": {
+        "ability": 7.8,
+        "top_speed": 335,
+        "cornering_ability": 3.3,
+        "straights_ability": 2.9,
+        "sponsor": "Mobil 1",
+        "pitstops_ability": 0.52
+    },
+    "Alpine": {
+        "ability": 7.1,
+        "top_speed": 328,
+        "cornering_ability": 5.1,
+        "straights_ability": 8.6,
+        "sponsor": "Pirelli",
+        "pitstops_ability": 1.49
+    },
+    "AlphaTauri": {
+        "ability": 9.2,
+        "top_speed": 312,
+        "cornering_ability": 4.7,
+        "straights_ability": 4.6,
+        "sponsor": "Castrol",
+        "pitstops_ability": 1.31
+    },
+    "Aston Martin": {
+        "ability": 8.7,
+        "top_speed": 352,
+        "cornering_ability": 7.9,
+        "straights_ability": 3.5,
+        "sponsor": "Monster Energy",
+        "pitstops_ability": 1.79
+    },
+    "Haas": {
+        "ability": 8.3,
+        "top_speed": 377,
+        "cornering_ability": 1.8,
+        "straights_ability": 8.9,
+        "sponsor": "Haas Automation",
+        "pitstops_ability": 1.5
+    },
+    "Williams": {
+        "ability": 7.5,
+        "top_speed": 361,
+        "cornering_ability": 7.9,
+        "straights_ability": 2.6,
+        "sponsor": "Dell Technologies",
+        "pitstops_ability": 1.75
+    },
+    "Sauber": {
+        "ability": 9.7,
+        "top_speed": 357,
+        "cornering_ability": 3.0,
+        "straights_ability": 8.6,
+        "sponsor": "Oracle",
+        "pitstops_ability": 1.71
+    },
+    "Toyota Racing": {
+        "ability": 7.8,
+        "top_speed": 345,
+        "cornering_ability": 6.7,
+        "straights_ability": 8.8,
+        "sponsor": "Amazon Web Services",
+        "pitstops_ability": 1.29
+    },
+    "Honda Racing": {
+        "ability": 8.2,
+        "top_speed": 346,
+        "cornering_ability": 4.2,
+        "straights_ability": 4.0,
+        "sponsor": "Nike",
+        "pitstops_ability": 1.25
+    },
+    "BMW Motorsport": {
+        "ability": 10,
+        "top_speed": 380,
+        "cornering_ability": 7.7,
+        "straights_ability": 5.7,
+        "sponsor": "Adidas",
+        "pitstops_ability": 0.4
+    },
+    "Lotus F1": {
+        "ability": 9.7,
+        "top_speed": 369,
+        "cornering_ability": 6.4,
+        "straights_ability": 8.1,
+        "sponsor": "Rolex",
+        "pitstops_ability": 1.81
+    },
+    "Jaguar Racing": {
+        "ability": 8.3,
+        "top_speed": 312,
+        "cornering_ability": 1.7,
+        "straights_ability": 7.5,
+        "sponsor": "TAG Heuer",
+        "pitstops_ability": 0.74
+    },
+    "Benetton": {
+        "ability": 7.4,
+        "top_speed": 363,
+        "cornering_ability": 8.8,
+        "straights_ability": 5.9,
+        "sponsor": "BP",
+        "pitstops_ability": 1.72
+    },
+    "Force India": {
+        "ability": 8.6,
+        "top_speed": 368,
+        "cornering_ability": 4.0,
+        "straights_ability": 5.3,
+        "sponsor": "Total Energies",
+        "pitstops_ability": 1.4
+    },
+    "Toro Rosso": {
+        "ability": 8.4,
+        "top_speed": 364,
+        "cornering_ability": 2.1,
+        "straights_ability": 8.7,
+        "sponsor": "Honda",
+        "pitstops_ability": 0.23
+    },
+    "Ligier": {
+        "ability": 8.2,
+        "top_speed": 356,
+        "cornering_ability": 9.8,
+        "straights_ability": 5.7,
+        "sponsor": "Toyota",
+        "pitstops_ability": 0.83
+    },
+    "Arrows": {
+        "ability": 7.5,
+        "top_speed": 315,
+        "cornering_ability": 9.9,
+        "straights_ability": 6.6,
+        "sponsor": "BMW",
+        "pitstops_ability": 1.7
+    },
+    "Brabham": {
+        "ability": 8.0,
+        "top_speed": 321,
+        "cornering_ability": 6.7,
+        "straights_ability": 6.9,
+        "sponsor": "Mercedes-Benz",
+        "pitstops_ability": 0.44
+    },
+    "Minardi": {
+        "ability": 8.2,
+        "top_speed": 353,
+        "cornering_ability": 5.1,
+        "straights_ability": 8.0,
+        "sponsor": "Audi",
+        "pitstops_ability": 0.67
+    },
+    "Renault": {
+        "ability": 9.9,
+        "top_speed": 304,
+        "cornering_ability": 9.7,
+        "straights_ability": 2.8,
+        "sponsor": "Ferrari",
+        "pitstops_ability": 0.79
+    },
+    "Prost Grand Prix": {
+        "ability": 9.1,
+        "top_speed": 354,
+        "cornering_ability": 7.4,
+        "straights_ability": 4.1,
+        "sponsor": "Alfa Romeo",
+        "pitstops_ability": 0.91
+    },
+    "March Engineering": {
+        "ability": 8.5,
+        "top_speed": 338,
+        "cornering_ability": 5.8,
+        "straights_ability": 2.3,
+        "sponsor": "McLaren",
+        "pitstops_ability": 0.37
+    },
+    "Tyrrell": {
+        "ability": 8.1,
+        "top_speed": 375,
+        "cornering_ability": 4.0,
+        "straights_ability": 6.5,
+        "sponsor": "AlphaTauri",
+        "pitstops_ability": 1.52
+    },
+    "Shadow": {
+        "ability": 7.4,
+        "top_speed": 360,
+        "cornering_ability": 5.4,
+        "straights_ability": 7.3,
+        "sponsor": "Renault",
+        "pitstops_ability": 0.59
+    },
+    "Brawn GP": {
+        "ability": 7.8,
+        "top_speed": 337,
+        "cornering_ability": 3.3,
+        "straights_ability": 7.1,
+        "sponsor": "Infiniti",
+        "pitstops_ability": 1.68
+    },
+    "BAR": {
+        "ability": 9.1,
+        "top_speed": 322,
+        "cornering_ability": 2.2,
+        "straights_ability": 8.1,
+        "sponsor": "Citroen",
+        "pitstops_ability": 1.19
+    },
+    "Super Aguri": {
+        "ability": 9.7,
+        "top_speed": 306,
+        "cornering_ability": 6.6,
+        "straights_ability": 4.1,
+        "sponsor": "Jaguar",
+        "pitstops_ability": 0.56
+    }
+}
